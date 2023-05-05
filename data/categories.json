@@ -1,0 +1,78 @@
+[
+  {
+    "id": "0",
+    "name": "All Categories"
+  },
+  {
+    "id": "1",
+    "picture": "https://images.pexels.com/photos/2696064/pexels-photo-2696064.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "name": "John Doe",
+    "experience": 10,
+    "recipes": 100,
+    "likes": 500
+  },
+  {
+    "id": " 2",
+    "picture": "https://plus.unsplash.com/premium_photo-1661778021952-65997d03b2b2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2hlZnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+    "name": "Jane Smith",
+    "experience": 8,
+    "recipes": 75,
+    "likes": 400
+  },
+  {
+    "id": "3",
+    "picture": "https://media.istockphoto.com/id/1332612615/photo/shot-of-an-unrecognisable-man-preparing-a-delicious-meal-at-home.jpg?s=612x612&w=0&k=20&c=49uEPK1bRElKNER1LsMScrWWrL0-iAt42rlqnWFO3v0=",
+    "name": "Bob Johnson",
+    "experience": 15,
+    "recipes": 120,
+    "likes": 600
+  },
+  {
+    "id": "4",
+    "picture": "https://media.istockphoto.com/id/1408797987/photo/chef-decorating-a-plate-while-working-in-the-kitchen-at-a-restaurant.jpg?s=612x612&w=0&k=20&c=qAQgOw87OZEg7fnBmiaUel3AZYFCcIkSChUqwBAa7RA=",
+    "name": "Alice Lee",
+    "experience": 5,
+    "recipes": 50,
+    "likes": 250
+  },
+  {
+    "id": "5",
+    "picture": "https://media.istockphoto.com/id/1419075831/photo/focused-on-making-delicious-salad-chef-is-on-the-kitchen-preparing-food.jpg?s=612x612&w=0&k=20&c=pSi-usPOsdJ2FpbenCfaga-bJuu9H_i_vn4Pvc48zNU=",
+    "name": "Mike Brown",
+    "experience": 12,
+    "recipes": 90,
+    "likes": 450
+  },
+  {
+    "id": "6",
+    "picture": "https://media.istockphoto.com/id/1473034913/photo/male-chef-preparing-a-bowl-of-noodle.jpg?s=612x612&w=0&k=20&c=57ObESkGn2FSGalW5XeD4FYWkYnzIQOz56mJeGijlBs=",
+    "name": "Sara Davis",
+    "experience": 7,
+    "recipes": 60,
+    "likes": 350
+  },
+  {
+    "id": "7",
+    "picture": "https://media.istockphoto.com/id/1414955236/photo/chef-cook-using-smart-phone-at-the-restaurant-kitchen-and-looking-camera.jpg?s=612x612&w=0&k=20&c=YKfGvjfPucT8TIyuhppLBOEDn1mOJPGckSbjUYATOQE=",
+    "name": "Tom Wilson",
+    "experience": 20,
+    "recipes": 150,
+    "likes": 800
+  },
+  {
+    "id": "8",
+    "picture": "https://media.istockphoto.com/id/1401772072/photo/skilled-gastronomy-expert-garnishing-gourmet-dish-with-parmesan-cheese-in-restaurant.jpg?s=612x612&w=0&k=20&c=Cxe5h-J3rbFHMI9lAWWqNLWZHXhN0kLaonu_PDYPFFQ=",
+    "name": "Emily Green",
+    "experience": 3,
+    "recipes": 30,
+    "likes": 150
+  },
+  {
+    "id": "9",
+    "picture": "https://media.istockphoto.com/id/1446478827/photo/a-chef-is-cooking-in-his-restaurants-kitchen.jpg?s=612x612&w=0&k=20&c=jwKJmGErrLe2XsTWNYEEyiNicudYVA4j8jvnTiJdp58=",
+    "name": "David Hernandez",
+    "experience": 9,
+    "recipes": 80,
+    "likes": 400
+  }
+]
