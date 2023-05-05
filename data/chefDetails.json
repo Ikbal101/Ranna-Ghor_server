@@ -259,13 +259,7 @@
       "name": "Spaghetti Carbonara",
 "name1": "Cheese Omlet",
 "name2": "Sweet",
-      "ingredients": [
-        "8 oz. spaghetti",
-        "4 oz. pancetta, diced",
-        "1/2 cup grated Parmesan cheese",
-        "3 large eggs",
-        "2 cloves garlic, minced"
-      ],
+     
       "cookingMethod": "1. Cook spaghetti according to package instructions. Reserve 1 cup of pasta cooking water.\n2. While spaghetti is cooking, cook pancetta in a large skillet over medium heat until crisp. Remove pancetta with a slotted spoon and set aside.\n3. In a small bowl, whisk together Parmesan cheese and eggs.\n4. In the same skillet, add garlic and cook until fragrant, about 30 seconds.\n5. Add cooked spaghetti to the skillet and toss to coat with garlic. Remove from heat.\n6. Gradually add egg mixture, tossing the spaghetti constantly to prevent the eggs from scrambling. Add reserved pasta cooking water, 1 tablespoon at a time, until desired consistency is reached.\n7. Add pancetta back to the skillet and toss to combine.\n8. Serve hot."
     }
   }
