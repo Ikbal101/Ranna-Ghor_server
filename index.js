@@ -9,7 +9,7 @@ const chefDetails = require ('./data/chefDetails.json')
 app.use(cors());
 
 app.get('/', (req, res) =>{
-    res.send('Dragonnnnnnnnnn is running')
+    res.send('join ranna ghor')
 });
 
 app.get('/categories', (req, res) =>{
